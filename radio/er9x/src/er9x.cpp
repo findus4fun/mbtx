@@ -36,7 +36,7 @@ const prog_uchar APM s9xsplashMarker[] = {
 
 #if defined(CPUM128) || defined(CPUM2561)
 const uint8_t 
-#include "..\..\common\hand.lbm"
+#include "../../common/hand.lbm"
 #endif
 
 #define MENU_STACK_SIZE	5
